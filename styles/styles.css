@@ -124,6 +124,11 @@ ol li::before {
 ul {
   list-style: none;
   margin-left: 0;
+  margin-bottom: 20px;
+}
+
+b {
+  font-weight: bold !important;
 }
 
 .section {
@@ -253,7 +258,7 @@ footer .sus {
   padding-left: 60px;
 }
 .aside li a {
-  font-size: 1em;
+  font-size: 0.7em;
   color: #707C97;
   padding-left: 32px;
   display: block;

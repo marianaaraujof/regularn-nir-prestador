@@ -68,9 +68,12 @@ ol li::before {
 ul {
   list-style: none;
   margin-left: 0;
+  margin-bottom: 20px;
 }
 
-
+b {
+  font-weight: bold !important;
+}
 
 .section {
   background: #FFFFFF;
